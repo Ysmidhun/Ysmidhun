@@ -67,7 +67,7 @@ Hi 👋, I Am Midhun
 <p align="right">
   <a href="http://wa.me/917012751946/?text=🤍🍒𝑯𝑬𝑳𝑳𝑶_𝑴𝑰𝑫𝑯𝑼𝑵_𝑩𝑹𝑶_🤍🍒">
     <img alt="Aparna Bot" title="Check Out Aparna" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.discord.gg/shiba">
+  <a href="http://wa.me/917012751946/?text=🤍🍒𝑯𝑬𝑳𝑳𝑶_𝑴𝑰𝑫𝑯𝑼𝑵_𝑩𝑹𝑶_🤍🍒">
     <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Ysmidhun?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
