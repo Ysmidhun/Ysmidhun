@@ -65,8 +65,8 @@ Hi 👋, I Am Midhun
   <a href="https://github.com/Ysmidhun?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="http://wa.me/917012751946/?text=🤍🍒𝑯𝑬𝑳𝑳𝑶_𝑴𝑰𝑫𝑯𝑼𝑵_𝑩𝑹𝑶_🤍🍒">
+    <img alt="Aparna Bot" title="Check Out Aparna" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.discord.gg/shiba">
     <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Ysmidhun?tab=repositories&sort=stargazers">
